@@ -1,4 +1,6 @@
- //If you want to test the this specific class, uncomment this code and run it and also the Deck Class's class Main Testing code only one calss main can run at a time
+// //DONE ON VS CODE FIRST AND THEN COPIED AND PASTED MY CODE HERE
+
+//If you want to test the this specific class, uncomment this code and run it and also the Deck Class's class Main Testing code only one calss main can run at a time
   /* final class Main {
      public static void main(String[] args) {
         Card card1 = new Card("King", "Clubs", 12);
