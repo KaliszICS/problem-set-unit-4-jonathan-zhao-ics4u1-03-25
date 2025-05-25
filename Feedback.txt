@@ -1,0 +1,10 @@
+K(30%): 100
+I(30%): 96
+C(10%): 90
+A(30%): 99
+97.5
+Missing starting javadocs for whole class.
+Params should have an explanation of what they do.
+Do not need an if statement for equals at the end, just return the condition.
+Could reuse addCard method in your reshuffle to avoid having to recheck null (could also use in constructor to stop null values from being added).
+remove or comment out methods not part of the final assignment (printDeck())
